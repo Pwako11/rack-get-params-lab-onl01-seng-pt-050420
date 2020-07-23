@@ -40,12 +40,5 @@ class Application
     end
   end
 
-  def cart
-
-  end
-
-  def add
-
-  end
-  end
+  
 end
